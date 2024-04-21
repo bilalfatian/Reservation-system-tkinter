@@ -24,6 +24,6 @@ Exemples de contraintes incluent les numéros de semaine valides pour les réser
 - Développe des interfaces conviviales pour l'insertion, la recherche, la modification et la suppression de données.
 - Les interfaces permettent aux utilisateurs d'ajouter de nouveaux clients, maisons de vacances, de rechercher des informations pertinentes, etc.
 # Technologies Utilisées
-Base de données: SQLite
-Langage de programmation: Python
-Bibliothèques: Pandas, NumPy, Tkinter
+- Base de données: SQLite
+- Langage de programmation: Python
+- Bibliothèques: Pandas, NumPy, Tkinter
